@@ -10,7 +10,6 @@ import { headingAnchors } from "./src/lib/heading-anchors";
 
 export default defineConfig({
   site: "https://alvarochann.github.io",
-  base: "/lutris",
   compressHTML: true,
   prefetch: { prefetchAll: true },
   integrations: [
