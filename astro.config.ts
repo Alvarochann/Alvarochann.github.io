@@ -9,7 +9,7 @@ import { headingNamespace } from "./src/lib/heading-namespace";
 import { headingAnchors } from "./src/lib/heading-anchors";
 
 export default defineConfig({
-  site: "https://lutris.github.io",
+  site: "https://alvarochann.github.io",
   compressHTML: true,
   prefetch: { prefetchAll: true },
   integrations: [
